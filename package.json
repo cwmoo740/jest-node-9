@@ -1,0 +1,10 @@
+{
+  "name": "jest-node-9",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "cwmoo740",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^21.3.0-beta.13"
+  }
+}
